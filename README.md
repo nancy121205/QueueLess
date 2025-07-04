@@ -1,5 +1,3 @@
-# QueueLess 🏥
-
 **QueueLess** is an intelligent platform designed to streamline hospital visits—cutting wait times and improving transparency for patients and staff.
 
 ---
